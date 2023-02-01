@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lista-tarefa/static/css/main.b7b9d965.css",
+    "main.js": "/lista-tarefa/static/js/main.ff30f8e4.js",
+    "index.html": "/lista-tarefa/index.html",
+    "main.b7b9d965.css.map": "/lista-tarefa/static/css/main.b7b9d965.css.map",
+    "main.ff30f8e4.js.map": "/lista-tarefa/static/js/main.ff30f8e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b9d965.css",
+    "static/js/main.ff30f8e4.js"
+  ]
+}
