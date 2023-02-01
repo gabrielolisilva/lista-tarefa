@@ -1,7 +1,7 @@
-#Resumo
- Criação de um aplicativo web responsável por cadastrar e gerenciar tarefas.
+Resumo <br/>
+Criação de um aplicativo web responsável por cadastrar e gerenciar tarefas.
  
- #Tecnologias Utilizadas
+ Tecnologias Utilizadas
  
  - TypeScript
  - HTML 
