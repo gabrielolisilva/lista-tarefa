@@ -1,0 +1,68 @@
+.todosSingle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 15px;
+  background-image: url("https://img.freepik.com/free-photo/crumped-yellow-paper-background-close-up_60487-2390.jpg?size=626&ext=jpg");
+}
+
+.todosSingle:hover {
+  box-shadow: 0 0 5px black;
+  transform: scale(1.03);
+}
+
+.todosSingle div {
+  display: flex;
+  align-items: center;
+}
+
+.todosSingleText {
+  flex: 1;
+  padding: 5px;
+  border: none;
+  font-size: 20px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.todosSingleText:focus {
+  outline: none;
+}
+
+.drag {
+  box-shadow: 0 0 20px black;
+}
+
+@media (max-width: 756px) {
+  .todosSingle {
+    width: 80%;
+  }
+
+  .todosSingleText {
+    font-size: 15px;
+  }
+
+  .todosSingle div {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .icons {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 500px) {
+  .todosSingle {
+    width: 86%;
+  }
+}
