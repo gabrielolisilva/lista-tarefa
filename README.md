@@ -1,5 +1,5 @@
 # Resumo <br/>
-Criação de um aplicativo web responsável por cadastrar e gerenciar tarefas.
+Criação de um aplicativo web responsável por cadastrar e gerenciar tarefas desenvolvido em React.
  
  # Tecnologias Utilizadas
  
